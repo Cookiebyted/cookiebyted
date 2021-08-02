@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on uni and side projects
+- 🌱 I’m currently learning C# and JavaScript
+- 💬 Ask me about projects, internships, whatever!
+- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/matthewyoungnz/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a foodie and love trying new food spots
