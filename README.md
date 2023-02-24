@@ -30,7 +30,7 @@ Last Updated: 24/02/2023
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
 
 <p align="center">
-  <b> and many others!</b>
+  <b> ...and many others!</b>
 </p>
 
 
